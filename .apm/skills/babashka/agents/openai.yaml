@@ -1,0 +1,8 @@
+interface:
+  display_name: "Babashka"
+  short_description: "Babashka scripting: built-in namespaces, bb.edn tasks, subprocesses, host differences from JVM Clojure, testing, and pods."
+  default_prompt: "Review this Babashka code for lost background work, unchecked subprocesses, and host differences from JVM Clojure."
+  brand_color: "#E41F26"
+
+policy:
+  allow_implicit_invocation: true

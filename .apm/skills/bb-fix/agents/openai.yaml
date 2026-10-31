@@ -1,0 +1,8 @@
+interface:
+  display_name: "Babashka Fix"
+  short_description: "Fix a Babashka project or script: lint, format (writes by default), test."
+  default_prompt: "Run /bb-fix."
+  brand_color: "#E41F26"
+
+policy:
+  allow_implicit_invocation: true

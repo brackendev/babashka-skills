@@ -1,0 +1,15 @@
+name: babashka-skills
+version: 0.1.0
+description: Babashka toolkit covering the built-in namespaces, bb.edn tasks, subprocesses, threads and process exit, host differences from JVM Clojure, testing, pods, packaging, and quality checks. Layers on top of clojure-skills.
+author: Bracken Spencer
+license: MIT
+type: skill
+dependencies:
+  apm: []
+  mcp: []
+devDependencies:
+  apm: []
+compilation:
+  target: all
+  strategy: distributed
+  source_attribution: true
